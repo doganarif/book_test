@@ -1,0 +1,1 @@
+[![Coverage Status](https://coveralls.io/repos/github/doganarif/book_test/badge.svg?branch=master)](https://coveralls.io/github/doganarif/book_test?branch=master)
